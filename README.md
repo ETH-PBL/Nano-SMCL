@@ -19,5 +19,4 @@ Nano-sized unmanned aerial vehicles (UAVs) are well-fit for indoor applications 
 ## Results
 
 ## Installation 
-Will be published on the 2nd week of October
-
+Working on it right now!!!
