@@ -29,7 +29,7 @@ make run all
 In the `code/smcl_yolo_fused/gap9` folder. 
 
 ## Usage 
-The approach is meant to be executed onboard, using the input from the sensors. 
+The approach is meant to be executed onboard and online, using the input from the sensors. 
 The semantic maps and the EDT are precomputed, and should be included as headers. For an example, check `code/smcl_yolo_fused/gap9/data`.
 The algorithm can also be executed offline, using the define `RUN_FROM_FILE`, by including header files containing the odometry, ToF data and semantic inference results. 
 For odometry, stored in odom.h, the format is (timestamp, x, y, z, roll, pitch, yaw)
