@@ -46,5 +46,5 @@ For the semantic inference data, stored in sem_q.h, the format is timestamp, the
 ~~~
 float detection_input[][62] = {{ 24440.0, 1, 8, 90, 0, 256, 56, 0.8425, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 }};
 ~~~
-We limmited the number of detections to 10 per image.
+We limited the number of detections to 10 per image.
 
