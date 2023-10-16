@@ -17,6 +17,8 @@ Nano-sized unmanned aerial vehicles (UAVs) are well-fit for indoor applications 
 </p>
 
 ## Results
+Our live demos for semantic localization on the Bitcraze Crazyflie 2.1 can seen in the following video:
+[![](http://img.youtube.com/vi/03l6LVqv4VA/0.jpg)](https://www.youtube.com/watch?v=03l6LVqv4VA "SMCL")
 
 ## Installation 
 Working on it right now!!!
