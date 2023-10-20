@@ -1,10 +1,10 @@
 # Fully Onboard Low-Power Localization with Semantic Sensor Fusion on a Nano-UAV using Floor Plans
-This repository contains the implementation of the following publication - Arxiv link coming soon!
+This repository contains the implementation of the following [publication](https://arxiv.org/pdf/2310.12536.pdf)
 ```bibtex
 @article{zimmerman2024icra,
   title = {{Fully Onboard Low-Power Localization with Semantic Sensor Fusion on a Nano-UAV using Floor Plans}},
   author  = {Zimmerman, Nicky and Müller, Hanna and Magno, Michele and Benini, Luca},
-  journal = {{arXiv preprint:XXXX.XXXXX}},
+  journal = {{arXiv preprint:2310.12536}},
   year    = {2023}
 }
 ```
