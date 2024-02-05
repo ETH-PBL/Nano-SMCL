@@ -48,3 +48,5 @@ float detection_input[][62] = {{ 24440.0, 1, 8, 90, 0, 256, 56, 0.8425, 0.0, 0.0
 ~~~
 We limited the number of detections to 10 per image.
 
+## Acknowledgements
+We sincerely thank Hilti for borrowing us the laser scanner and teaching us how to use it.
