@@ -48,6 +48,11 @@ float detection_input[][62] = {{ 24440.0, 1, 8, 90, 0, 256, 56, 0.8425, 0.0, 0.0
 ~~~
 We limited the number of detections to 10 per image.
 
+An overview of the algorithm is illustrated below
+<p align="center">
+<img src="resources/flow.png" width="800"/>
+</p>
+
 ## PicoYOLO
 In the model folder you can find our fine-tuned picoYOLO .pt with a script that does inference. 
 
